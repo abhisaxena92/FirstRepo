@@ -10,7 +10,7 @@ public class MainClass1 {
 		Callme cobj = new Callme();
 		cobj.Hello();
 		cobj.Bye();
-		
+		cobj.Executor();
 		
 	}
 
